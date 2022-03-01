@@ -4,7 +4,6 @@ Projeto "Be the Hero" desenvolvido durante a Semana Omnistack 11.0 com a mentori
 
 ![](cover.svg)
 
-
 ⚙ **Tecnologias Utilizadas / Used technologies** 
 
 - [Node.js](https://nodejs.org/en/)
